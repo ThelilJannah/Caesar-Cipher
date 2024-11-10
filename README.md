@@ -8,7 +8,7 @@ A Java Program that encrypts and decrypts plain and cipher texts using the Caesa
 
 <ol>
   <li>Make sure you have JDK installed.
-  <li>Open CMD on Windows or terminal on Linux</li>
+  <li>Open CMD on Windows or Terminal on Linux/MacOs</li>
   <li>Clone this repo by running: git clone https://github.com/ThelilJannah/Caesar-Cipher/</li>
   <li>Run: cd Caesar-Cipher</li>
   <li>Run: <em>javac CC\*.java</em> to compile the source file.</li>
